@@ -10,7 +10,7 @@ Originally hosted on [OSF](https://osf.io/3zk5a/).
 
 ## My Contribution
 
-I contributed to stimulus design, experimental implementation, data analysis, 
+Alongside my collaborators, I contributed to stimulus design, experimental implementation, data analysis, 
 and writing up of results as a Research Assistant on this project (PI: Dr Jeremy 
 Steffman, University of Edinburgh).
 
